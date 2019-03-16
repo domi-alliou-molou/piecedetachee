@@ -8,7 +8,7 @@ $conn = mysqli_connect($servername, $user, $password, $database);
 // Check connection
 
 if ($conn) {
-    echo 'BD connectee <BR>';
+   // echo 'BD connectee <BR>';
     //echo $database;
 }
 else{
